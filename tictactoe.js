@@ -171,6 +171,7 @@ function restartGame(){
     cell7.innerText="";
     cell8.innerText="";
     cell9.innerText="";
+    state.player = "X"
     playerTurn = state.player1Name
     currentPlayer.innerText = `It is ${playerTurn}'s turn!`;
     clickAmount=0 
