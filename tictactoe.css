@@ -7,11 +7,6 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
-/* .boardBox{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    } */
 .playerAssign{
     display: inline-flex;
     flex-direction: row;
@@ -41,10 +36,6 @@ body {
     align-content: center;
     font-size: 75px ;
     font-family: 'Pacifico', cursive;
-}
-
-.cell:hover{
-    
 }
 
 #cell1{
